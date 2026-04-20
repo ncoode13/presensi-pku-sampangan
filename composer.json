@@ -8,6 +8,7 @@
     "require": {
         "php": "^8.2",
         "ext-gd": "*",
+        "ext-zip": "*",
         "intervention/image": "^3.11",
         "jenssegers/agent": "^2.6",
         "laravel/framework": "^12.0",
